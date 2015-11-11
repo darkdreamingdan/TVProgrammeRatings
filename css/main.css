@@ -1,0 +1,14 @@
+.main-grid-item { 
+	height: 165px;
+	outline: 2px solid #ccc;
+	background: #eeeeee;
+	margin-bottom: 20px; 
+	padding: 5px;
+	text-align: center;
+}
+
+.logo {
+	height: 100px;
+	padding: 10px;
+
+}

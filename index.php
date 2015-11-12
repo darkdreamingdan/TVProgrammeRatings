@@ -36,12 +36,12 @@ foreach($rslt_user_votes as $vote) {
 <script>
 //https://stackoverflow.com/questions/15757750/php-function-call-using-javascript
 $("input").on('rating.change', function(event, value, caption) { 
-	console.log(value)
 	jQuery.ajax({
 		type: "POST",
 		url: 'inc/submit_vote.php',
 		dataType: 'json',
-		data: {functionname: 'vote', arguments: [this.id, value]},
+		data: {functionname: 'vote', arguments: [this.id, value]}
+		});
 	} );
 </script>
 <?php include('inc/footer.php');?>

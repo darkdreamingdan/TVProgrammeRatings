@@ -1,5 +1,5 @@
 .main-grid-item { 
-	height: 165px;
+	height: 250px;
 	outline: 2px solid #ccc;
 	background: #eeeeee;
 	margin-bottom: 20px; 
@@ -7,8 +7,25 @@
 	text-align: center;
 }
 
+.main-grid-item-name {
+	font-weight: bold;
+	font-size: 1.1em;
+	margin: 3px 3px 3px 3px;
+	line-height: normal;
+}
+
 .logo {
 	height: 100px;
 	padding: 10px;
 
+}
+
+.leaderboard-item {
+	text-align: centre;
+	vertical-align: middle;
+	font-size: 1.5em;
+}
+
+.table tbody>tr>td.vert-align{
+    vertical-align: middle;
 }

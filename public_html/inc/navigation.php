@@ -5,8 +5,8 @@ $navigation = array( 	array( 	"name" => 	"Rate our content",
 						array( 	"name" => 	"Content Leaderboard", 
 								"URL" => 		"leaderboard.php",
 						),
-						array( "name" => 		"Rate our content", 
-								"URL" => 		"upload.php",
+						array( "name" => 	"Upload", 
+								"URL" => 	"upload.php",
 						)
              );
 			 

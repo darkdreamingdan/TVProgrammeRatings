@@ -1,7 +1,9 @@
-		This product uses the TMDb API but is not endorsed or certified by TMDb.
+		<p/>
+		<p/>
+		<div class="footer">Danial Chowdhury | This product uses the TMDb API but is not endorsed or certified by TMDb.</div>
 	</div>
 
-	<!-- ADD ALL OUR POLYFILLS -->
+	<!-- ADD ALL OUR DEPENDENCIES -->
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	
 	<!--Add the Bootstrap from CDN-->

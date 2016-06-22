@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Sky Programme Ratings</title>
+    
+    <title>Programme Ratings</title>
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	
@@ -21,7 +21,7 @@
   <body>
 	<div class="container">
 		<div class="jumbotron">
-			<img class="pull-left logo" height="100" src="img/logo.png" alt="Sky Logo" >
+			<img class="pull-left logo" height="100" src="img/logo.png" alt="Company Logo" >
 			<h1>Programme Ratings</h1>
 			<p>Check out our most popular shows and vote on your favourite!</p>
 			<?php include('inc/navigation.php');?>
